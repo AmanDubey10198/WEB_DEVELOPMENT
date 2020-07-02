@@ -1,0 +1,1 @@
+This folder uses different projects for working on backend using Express framework and sqlite database.
