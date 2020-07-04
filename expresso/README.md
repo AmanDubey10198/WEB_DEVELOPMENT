@@ -1,5 +1,17 @@
 # Expresso
 
+## How to Run
+1. Download the project
+2. Make sure you have node pre installed on your pc.
+3. Open command prompt and change your directory to the expresso folder Ex: "E:/Project/Expresso/"
+4. Run command "npm install" to install all the depenedencies required for the project.
+5. Install some side packages "npm install body-parser", "npm install morgan", "npm install errorhandler" and "npm install mocha".
+6. If sqlite3 gives any error try to update it to the latest version in your pc.
+7. Run command "node migration.js" to create the database and required table for the project
+8. Run command "node seed.js" to intialize your database.
+9. To run the project, enter "npm start" or "node server.js". This will prompt you to the port where server is listening.
+10. If it uses port 4000 then open your browser and go to "http://localhost:4000/"
+
 ## Project Overview
 
 The Expresso internal tool allow users to:
