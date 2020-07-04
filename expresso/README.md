@@ -1,5 +1,7 @@
 # Expresso
 
+<!-- a href = "./public/index.html">Click me!</a> for preview of the project. It will not work until you host it on a server locally or remotely.-->
+
 ## How to Run
 1. Download the project
 2. Make sure you have node pre installed on your pc.
