@@ -12,6 +12,8 @@
 9. To run the project, enter "npm start" or "node server.js". This will prompt you to the port where server is listening.
 10. If it uses port 4000 then open your browser and go to "http://localhost:4000/"
 
+If you want to take a feel of the project open "index.html" in the public directory. It will not show any functionality until the project is started on a server.
+
 ## Project Overview
 
 The Expresso internal tool allow users to:
